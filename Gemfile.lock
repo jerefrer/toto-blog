@@ -1,0 +1,26 @@
+GIT
+  remote: https://github.com/shioyama/toto
+  revision: a60493d661930b0553c93d8105dc99fe2d82e389
+  specs:
+    toto (0.4.9)
+      builder
+      coderay (= 0.9.8)
+      rack
+      rdiscount
+
+GEM
+  remote: https://rubygems.org/
+  specs:
+    builder (3.2.0)
+    coderay (0.9.8)
+    rack (1.5.2)
+    rdiscount (2.0.7.1)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  builder
+  rack
+  rdiscount
+  toto!
